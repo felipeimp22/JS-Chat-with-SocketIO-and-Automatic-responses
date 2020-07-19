@@ -1,2 +1,2 @@
-# Chat-RealTime-Socket.io-NodeJS-ChatBot
-My first chat with ChatBot realtime.
+# Chat-RealTime
+Chat real time using socket io with automatic responses like chatbot.
